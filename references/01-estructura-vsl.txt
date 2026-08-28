@@ -1,0 +1,283 @@
+﻿Pampa VSL Structure Document
+
+
+
+
+Hook
+* Capture attention
+* The purpose of the first line is to get them to listen to the next line
+* And the purpose of the 2nd line is to get them to listen to the 3rd line
+* Sometimes the hook is simply social proof testimonials
+* But usually the hook follows the following framework…
+
+
+What goes into a profitable hook:
+
+
+1. Explains benefits
+["Double your client bookings in 30 days—without spending a dime on ads."
+"Finally sleep through the night—our method retrains your brain in under a week."
+"Turn 15 minutes a day into $1,000/month in passive income—here’s how."]
+
+
+2. Elaborates on differences
+["Unlike other fitness programs, we focus on your nervous system—not just your muscles."
+"Forget boring resumes—this AI tool makes recruiters chase you instead."
+"Other apps track your habits. Ours builds them for you."]
+
+
+
+
+3. Includes WTF factor/curiosity
+["He made $200K from a Google Doc—and never built a website."
+"We fired our sales team—and tripled revenue."
+"Why 92% of millionaires avoid budgeting apps (and what they use instead)."]
+
+
+
+
+4. Introduces a time constraint
+["Enrollment closes in 3 hours—next chance is 2026."
+"Only 27 spots left. After that, we raise the price permanently."
+"This bonus disappears at midnight—don’t miss it."]
+
+
+
+
+5. Teases the story
+[“they laughed when I sat down at the piano, but when I started to play…”
+"I was $89K in debt. Then one conversation changed everything."
+"She launched with zero followers. Now her waitlist has 4,200 people."
+"It started with a tweet. It ended with a 7-figure business."]
+
+
+
+
+6. Lead with authority (proof, big names, media, companies, etc.)
+"Used by teams at Google, Spotify, and NASA."
+"Featured in Forbes, WSJ, and TechCrunch—here’s why everyone’s talking."
+"Built by the ex-Head of Product at Airbnb."
+
+
+
+
+7. Magic (when you know a hook is hot, you KNOW)
+
+
+
+
+How to strengthen a hook:
+
+
+1. Include an example to demonstrate the claim
+"Sarah turned her freelance writing side hustle into $12K/month using this 3-email system."
+"We helped a SaaS founder go from 2 sales/month to 75—with no ads."
+"This one-page landing page generated 4,210 leads in 5 days. Here’s why it worked."
+
+
+
+
+2. Use modalities to amplify the senses
+"The moment you log in, it feels like using Apple software—smooth, intuitive, satisfying."
+"Watch your calendar fill up with dream clients—no awkward DMs required."
+"You’ll hear the Stripe notifications. You’ll feel the relief. This system works."
+
+
+
+
+3. State the claim as a paradox
+"Make more by working less—seriously, our top clients cut hours and doubled profit."
+"The more you give away, the faster you’ll grow—here’s the strategy behind it."
+"To get more leads, stop trying to get leads."
+
+
+
+
+4. Frame the claim as a question
+"What if you could triple conversions—without changing a single line of copy?"
+"Why are 7-figure founders ditching webinars for Notion docs?"
+"Ever wonder how some people hit $100K with no audience?"
+
+
+
+
+5. Include newness, authority, exclusivity
+"New AI tool used by Meta insiders—now available to early adopters."
+"The first program of its kind approved by top Ivy League researchers."
+"Only 100 seats. Created by the consultant who advised Netflix, Apple, and Shopify."
+
+
+
+
+6. Use metaphor, similes, parallel examples
+"Think of it like ChatGPT… but for your sales calls."
+"This funnel works like a vending machine—put in cold traffic, get paying clients out."
+"Just like Airbnb disrupted the hotel industry, this platform is disrupting the online info product industry."
+
+
+
+
+7. Give the problem or claim a name
+"We help you eliminate ‘Launch Fatigue’—the #1 killer of course momentum."
+"It’s not burnout—it’s ‘Content Creep.’ And we have the cure."
+"Fix ‘Expert Syndrome’: when you’re amazing at what you do but invisible online."
+
+
+
+
+8. Address the people who can, and can’t buy the product
+"Not for beginners. This is for coaches already making $5K/month."
+"If you're not getting traffic yet, this isn’t for you. But if you are—it’ll 10x your conversions."
+“If you are a marketer or creator looking to scale their brand or business to 8 figures and beyond, I’m about to share with you something which will blow your mind…”
+
+
+
+
+9. Show how easy the claim is, and remove limitations
+"No camera, no editing, no problem—this 3-step video system works anyway."
+"You don’t need tech skills, a team, or a big budget. Just 90 minutes and this tool."
+"Works even if you’ve failed before—because we’ve removed every reason you might."
+
+
+
+
+10. Dramatize the claim and problem
+"You’re bleeding $5,000/month and don’t even know it—until this report shows you where."
+"Most businesses are one bad ad campaign away from collapse. This prevents that."
+"Your audience is scrolling past your content like it’s wallpaper. Here’s how to stop that cold."
+
+
+
+
+11. USE CLAUDE
+[Put your headlines through CLAUDE, and tell it to come up with 5 more variations]
+
+
+
+
+Lead
+* Build mystery and intrigue
+* Further elaborate on the audience’s problem or question you introduced [and what I mean by the problem or question you introduced, in the hook, you necessarily either target their pain points, so that’s their PROBLEM. Or you show them some benefit is possible, which makes them QUESTION “how is it possible?”]
+* Further tease the unique mechanism of the solution/benefit
+* Establish some authority in the form of proof that the method of your solution works
+* (Note, this does NOT mean that your audience cares who YOU are yet, that comes later)
+* Invite audience to keep watching to learn the answer to their problems (this is the payoff for watching all the way through)
+
+
+
+
+Qualification
+* Must give credit to my billionaire marketer mentor for the placement of this step
+* Since you’ve already built up mystery, intrigue and established some authority in your solution
+* People are hooked, but now you’ve got to lock them in
+* Describe who this solution is for
+* And who it is not for
+* This gets them to say “yes, this is for me” in their minds
+* Note that even as you “disqualify” them, you don’t really disqualify them because every single disqualification has a silver lining where the audience comes to the conclusion that “well I’m obviously not THAT, so then THIS solution is for me”
+* For example, “we do not take any lazy or dumb people in this program, this will not work for them”...
+* Nobody wants to be called lazy and dumb, so they will say “no I am NOT lazy and dumb, so therefore this solution IS for me”
+
+
+Problem/question introduction
+* Start explaining the problem your audience has and identify them in language they will resonate with
+* Start answering the question that’s part of the payoff of the lead (ie. “How did we do X?)
+* Can weave in answering the question also with explaining the problem the audience has
+
+
+
+
+Hero story/Guru introduction
+* This is where you tell the emotional story of the struggle to find the solution to the problem
+* Here you can also introduce the guru, and explain how he was going through the problem
+* Ultimately you want the story to build to a crescendo where it looked like you tried everything, nothing worked, all hope was lost, and there would be no way to improve the situation
+* But alas, a silver lining, a new mechanism which promises a breakthrough... a solution at last!
+
+
+
+
+Solution introduction
+* Introduce solution and explain the mechanism behind why and how it works [Remember to use logic ladders to explain things logically, because people cannot connect the dots for themselves. The solution needs to be as crystal clear as possible for your audience]
+* The solution can also be the product itself, especially if the product was developed to solve the problem
+
+
+
+
+Features and benefits
+* Breakdown the features of the product in detail
+* Attach benefits to the features; use hook principles to create these fascinations [stuff such as “8 week transformation program which covers A to Z, step-by-step all of the things you need to do and know in order to scale your brand or business to 8 figures and beyond”]
+
+
+
+
+Testimonials/receipts
+* Now it’s time to spam these
+* Insert the best testimonials about your product/service, written, and in video
+* Show receipts of wins
+* If you can format these as mini stories it’s even better, ie. “First I had a problem, tried everything but couldn't solve it, found X, finally got a solution, I’m happy now making this testimonial.”
+* If there are no testimonials, just put placeholders “<TESTIMONIAL X>”
+
+
+
+
+Price anchoring
+* You gotta ask them now how much they think something like this would cost. [this is NOT like value stacking, as much as I respect Russell Brunson and the things he’s done for this industry, he’s obviously been extremely successful, but talking about “this costs X, and that costs Y… but I will only give it to you for Z price” just sounds disingenuous, and unbelievable… it’s much better to ASK people how much they think something would cost…”]
+* Use analogies and examples [so that people can convince themselves of a higher perceived value, and how you do this is…] to compare the cost of NOT taking your solution, ie. On a crypto offer, explain how much most people lost to the crypto markets on average when they try to learn it on their own vs how much they would make when they follow guidance.
+* Go for the close, state your price [I’m going to get some pushback for saying this, but for most of your offers you should state your price, but there are exceptions for some offers. When it’s a lower ticket price point, the price is even a selling point and helps you, so you should always state the price in that case. When the offer is a higher ticket, where you’re selling them on calls/text and you’re getting qualified leads, then there’s no need to state the price. The price acts in this case like a filtering mechanism. If you have a lead quality problem you should state the price, because you will filter out the people who would be put off by the price so your lead quality would increase, resulting in less time wasted on calls for yourself and your closers. If stating the price filters out too many people to where the increase in lead quality doesn’t offset the decrease in volume in terms of the resulting profits, then you either have to improve the offer, improve the copy, improve the VSL, or even reduce the price because there’s a mismatch between what the market is prepared to pay. Now there are cases when increasing the price even more actually helps you to be perceived as more premium, and you get a higher quality clientele and can ultimately make more money. So it all depends.]
+
+
+
+
+Guarantee/risk reversal
+* If you have an amazing guarantee or risk reversal in your offer, include it here
+* The better your guarantee, the more conversions you will have [hands down, this is an irrefutable fact. Some of you will obviously have stronger guarantees than others. You should not make a guarantee you cannot fulfill. So look at the fulfillment structures of your offer and realistic expectations of results people can get when you are making your guarantee.]
+* We need to make it as easy as possible for somebody to buy from you
+
+
+
+
+Urgency story
+* If you have a believable reason for why this offer won’t last forever, include it here
+* For example:
+   * Limited spots (you’ll probably have to prove this somehow, people are skeptical)
+   * Market conditions (probably your strongest urgency factor, if it fits) [and this is things such as the market is getting saturated, the economy is catching up to these methods of making money and the opportunity will disappear, or the next covid 19 will come and everyone will be locked down so prices in real estate will skyrocket]
+   * Price increase (you’ll have to justify this as well, people are skeptical) [there needs to be believable reasons for why you will increase price, such as fulfillment limitations, stock limitations, increased demand… it has to be a good reason]
+* Again, let me reemphasize... make this a STORY. Do not JUST state that there is urgency. [You know we’ve had so many people joining recently, X had X success, and Y had Y success, you know what happened, we’ve simply hit our capacity in how many people we can help… and do you think it’s fair that we take on more people than we can realistically help? of course not, that would be a waste of your money, so we had to limit spots…]
+
+
+
+
+Crossroads close
+* This is a classic and extremely effective close.
+* Outline the nightmare scenario of not taking action to buy your product/service.
+* Outline the scenario where you do nothing.
+* Outline the scenario where you take action, and solve all of your problems and all of your life’s most magical dreams come true. [now of course you don’t tell them this explicitly, but it should be very implied because you will describe their dream scenario exactly how they imagine it in their same language]
+* Then use a Burden of Proof question to ask them which scenario they want to happen to them. [which one is it going to be? which do you want?]
+
+
+
+
+Takeaway close (then qualify again)
+* Now it’s time to slightly takeaway the opportunity from them.
+* Disqualify them by:
+   * Listing who this is NOT for.
+   * And describing the kind of person who would NOT be successful with this product/service.
+* Then qualify them again:
+   * “It’s not for everyone, but IF you are X, Y, and Z... then this is for you.”
+
+
+
+
+Help them buy
+* Assume the sale, because if your product is amazing then it’s basically obvious that they NEED what you have to offer them
+* State the price again, show them how they can pay, show them how they can buy
+* Guide them through the process, give them instructions, use visuals
+
+
+
+
+Future pace
+* SHOW them now what will happen once they buy (not IF they buy, remember preemptive language sales lesson)
+* Show what happens once they onboard, how they can access their materials or product
+* Tease the benefits coming their way, and tell them it’s literally in their grasp now all they have to do is make the leap of faith
+* Describe the person they are going to become, how aggressive you do this will depend on the offer, and how emotional the target audience is (if it’s consumers, you can get away with a more aggressive angle... if it’s a business, then you’re going to have more skeptical consumers so you can’t go so hard and it’s going to require some finesse)
+* Go for the close again, and slap a timer on there (optional)
